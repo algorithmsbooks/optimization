@@ -6,6 +6,7 @@ Errata for Algorithms for Optimization book
 * p. 110: Change "elseif yr > ys" to use \geq
 * p. 171: There should be minus signs instead of plus signs before each of the x_i terms under the square root (thanks to Zhengyu Chen)
 * p. 449: Eq D.2 should read: 4 * (-27) = -108
+* p. 454: Changed two instances of sigma to mu on the left-hand-side of Excercise 8.4.
 
 ## Minor
 * Example 4.2: "satisfied" is twice misspelled as "satisifed."
