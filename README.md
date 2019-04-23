@@ -4,6 +4,7 @@ Errata for Algorithms for Optimization book
 * Figure 3.6, page 38: F_2 should be F_3 and F_3 should be F_4 (thanks to Zdeněk Hurák)
 * Fig 5.7: change "hypermomentum" in legend to "hypergradient" and change caption to begin: "Hypergradient versions of gradient descent and Nesterov momentum compared on..."
 * p. 110: Change "elseif yr > ys" to use \geq
+* p. 160: The ref to eq. 9.8 in the last paragraph should actually be to eq. 9.7. (thanks to Anthony Corso and Joan Creus-Costa)
 * p. 171: There should be minus signs instead of plus signs before each of the x_i terms under the square root (thanks to Zhengyu Chen)
 * p. 449: Eq D.2 should read: 4 * (-27) = -108
 * p. 454: Changed two instances of sigma to mu on the left-hand-side of Excercise 8.4.
