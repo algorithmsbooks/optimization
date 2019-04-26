@@ -13,3 +13,4 @@ Errata for Algorithms for Optimization book
 * Example 4.2: "satisfied" is twice misspelled as "satisifed."
 * Sec 4.5: "termination" is misspelled as "terminiation"
 * Mu vector prior to Eq 8.18 should be bold. 
+* p. 201: Changed "positive" to "non-negative" is 2nd-to-last paragraph
