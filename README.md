@@ -14,6 +14,7 @@ Errata for Algorithms for Optimization book
 * p. 454: Changed two instances of sigma to mu on the left-hand-side of Excercise 8.4.
 
 ## Minor
+* p. 46: Change Eq 3.14 to use y_min on both sides for consistency
 * Example 4.2: "satisfied" is twice misspelled as "satisifed."
 * Sec 4.5: "termination" is misspelled as "terminiation"
 * Mu vector prior to Eq 8.18 should be bold. 
