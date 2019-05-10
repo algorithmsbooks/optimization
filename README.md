@@ -11,6 +11,7 @@ Errata for Algorithms for Optimization book
 * p. 176: Stationarity condition should use a + instead of a -
 * p. 177: Stationarity condition (eq 10.31) should use + instead of - (thanks to Erez Krimsky)
 * p. 180: Ex 10.6 incorrectly optimizes the dual function. It should recognize that the dual function is unbounded below when lambda is less than 1/2. The dual problem is maximized at 1/2, yielding two optimal solutions.
+* p. 200: The leaving index should be in B.
 * p. 277: Ex 15.1 has 1^-1, which should be 2^-1 (thanks to Ryan Samuels)
 * p. 449: Eq D.2 should read: 4 * (-27) = -108
 * p. 454: Changed two instances of sigma to mu on the left-hand-side of Excercise 8.4.
