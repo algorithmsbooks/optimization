@@ -19,6 +19,7 @@ Errata for Algorithms for Optimization book
 * p. 324: Ex 18.1 analytic solution for variance was incorrect. (plot appears to be correct) (thanks to Veronika Korneyeva)
 * p. 449: Eq D.2 should read: 4 * (-27) = -108
 * p. 454: Changed two instances of sigma to mu on the left-hand-side of Excercise 8.4.
+* p. 459: Ex. 11.3: solution should be "We can add a slack variable $x_3$ and split $x_1$ and $x_2$ into $x_1^+$, $x_1^-$, $x_2^+$, and $x_2^-$. We minimize $6x_1^+ - 6x_1^- + 5x_2^+ - 5x_2^-$ subject to the constraints $-3x_1 + 2x_2 + x_3 = -5$ and $x_1^+, x_1^-, x_2^+, x_2^-, x_3 \geq 0$." (thanks to Jimin Park)
 
 ## Minor
 * p. 46: Change Eq 3.14 to use y_min on both sides for consistency
