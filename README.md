@@ -16,6 +16,7 @@ Errata for Algorithms for Optimization book
 * p. 203: Ex 11.7 should read "causes x_4 to become zero" (thanks to Wouter Van Gijseghem)
 * p. 277: Ex 15.1 has 1^-1, which should be 2^-1 (thanks to Ryan Samuels)
 * p. 284: In the matrix in Ex 15.3, the subscript of row 5, column 6 should be 21, not 12 (thanks to Veronika Korneyeva)
+* p. 324: Ex 18.1 analytic solution for variance was incorrect. (plot appears to be correct) (thanks to Veronika Korneyeva)
 * p. 449: Eq D.2 should read: 4 * (-27) = -108
 * p. 454: Changed two instances of sigma to mu on the left-hand-side of Excercise 8.4.
 
