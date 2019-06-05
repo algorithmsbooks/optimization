@@ -5,6 +5,7 @@ Errata for Algorithms for Optimization book
 * p. 78: Change eq 5.26 to use s of k+1 rather than s of k. RMSProp uses the most recent value. (thanks to Michael Gobble)
 * Fig 5.7: change "hypermomentum" in legend to "hypergradient" and change caption to begin: "Hypergradient versions of gradient descent and Nesterov momentum compared on..."
 * p. 110: Change "elseif yr > ys" to use \geq
+* p. 138: Covariance matrix adaptation had inconsistencies with the recommended implementation in the original work. Primarily, this changes eq 8.18 such that first m_elite entries sum to 1, that all entries sum to approx 0, and that weights need not be non-negative. Eq 8.19 and 8.22 only sum to m_elite. (thanks to Arec Jamgochian)
 * p. 160: The ref to eq. 9.8 in the last paragraph should actually be to eq. 9.7. (thanks to Anthony Corso and Joan Creus-Costa)
 * p. 171: There should be minus signs instead of plus signs before each of the x_i terms under the square root (thanks to Zhengyu Chen)
 * p. 174: Eq 10.20 should have a + instead of a - as the gradients must point in opposite directions and mu is non-negative (thanks to Erez Krimsky)
@@ -32,3 +33,4 @@ Errata for Algorithms for Optimization book
 * Sec 4.5: "termination" is misspelled as "terminiation"
 * Mu vector prior to Eq 8.18 should be bold. 
 * p. 201: Changed "positive" to "non-negative" is 2nd-to-last paragraph
+* The latest version of Julia includes Iterators in Base, so `product` can be accessed via `Iterators.product`.
