@@ -23,6 +23,7 @@ Errata for Algorithms for Optimization book
 * p. 284: In the matrix in Ex 15.3, the subscript of row 5, column 6 should be 21, not 12 (thanks to Veronika Korneyeva)
 * p. 324: Ex 18.1 analytic solution for variance was incorrect. (plot appears to be correct) (thanks to Veronika Korneyeva)
 * p. 347: Ex 19.3: Each of -0.091 - floor(-0.091) and -0.455 - floor(-0.455) should be reversed (thanks to Veronika Korneyeva)
+* p. 409: Exercise 21.4: The problem should use 10 degrees rather than 10 radians. (thanks to Sudarshan Chawathe)
 * p. 426: Alg B1: The euler constant (\euler in Julia) does not exist in the DejaVu Sans Mono font, so is missing. (thanks Sudarshan Chawathe)
 * p. 449: Eq D.2 should read: 4 * (-27) = -108
 * p. 454: Changed two instances of sigma to mu on the left-hand-side of Excercise 8.4.
