@@ -6,6 +6,7 @@ Errata for Algorithms for Optimization book
 
 * p. 10: Eq 1.14 and 1.16 should use x* in x*+hy (thanks to Chris Peel)
 * Figure 3.6, page 38: F_2 should be F_3 and F_3 should be F_4 (thanks to Zdeněk Hurák)
+* p. 57: Change "strong Wolfe condition" to "string Wolfe curvature condition" (thanks to Chris Peel)
 * p. 78: Change eq 5.26 to use s of k+1 rather than s of k. RMSProp uses the most recent value. (thanks to Michael Gobble)
 * Fig 5.7: change "hypermomentum" in legend to "hypergradient" and change caption to begin: "Hypergradient versions of gradient descent and Nesterov momentum compared on..."
 * p. 110: Change "elseif yr > ys" to use \geq
