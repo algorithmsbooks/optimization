@@ -37,6 +37,7 @@ Errata for Algorithms for Optimization book
 ### Minor
 * p. 46: Change Eq 3.14 to use y_min on both sides for consistency
 * Example 4.2: "satisfied" is twice misspelled as "satisifed."
+* Fig 4.9: Needs one more iteration to get to x^10.
 * Sec 4.5: "termination" is misspelled as "terminiation"
 * Mu vector prior to Eq 8.18 should be bold. 
 * p. 201: Changed "positive" to "non-negative" is 2nd-to-last paragraph
