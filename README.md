@@ -27,6 +27,7 @@ Errata for Algorithms for Optimization book
 * p. 277: Ex 15.1 has 1^-1, which should be 2^-1 (thanks to Ryan Samuels)
 * p. 284: In the matrix in Ex 15.3, the subscript of row 5, column 6 should be 21, not 12 (thanks to Veronika Korneyeva)
 * p. 324: Ex 18.1 analytic solution for variance was incorrect. (plot appears to be correct) (thanks to Veronika Korneyeva)
+* p. 336: Fix q vector formatting in Ex. 18.6
 * p. 347: Ex 19.3: Each of -0.091 - floor(-0.091) and -0.455 - floor(-0.455) should be reversed (thanks to Veronika Korneyeva)
 * p. 426: Alg B1: The euler constant (\euler in Julia) does not exist in the DejaVu Sans Mono font, so is missing. (thanks Sudarshan Chawathe)
 * p. 449: Eq D.2 should read: 4 * (-27) = -108
