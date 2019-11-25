@@ -47,5 +47,6 @@ Errata for Algorithms for Optimization book
 
 * p. 242: Change Morris-Mitchell Criterion list from {1,2,3,10,20,50,100} to {1,2,5,10,20,50,100}. (thanks to Stephan Milius)
 * p. 263: Change sidenote 8 to add " if $\lambda = 0$" and change "sufficiently large" to "positive". (thanks to Chris Peel)
+* p. 325: Remove repeated equation 18.18 and insert step between 18.13 and 18.14. (thanks to Christoph Buchner)
 * p. 409: Exercise 21.4: The problem should use 10 degrees rather than 10 radians. (thanks to Sudarshan Chawathe)
 
