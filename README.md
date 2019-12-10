@@ -42,6 +42,7 @@ Errata for Algorithms for Optimization book
 * Sec 4.5: "termination" is misspelled as "terminiation"
 * Mu vector prior to Eq 8.18 should be bold. 
 * p. 201: Changed "positive" to "non-negative" is 2nd-to-last paragraph
+* p. 347: In Example 19.3, in the last array of equations, the right pair had too much space before the equals sign.
 * The latest version of Julia includes Iterators in Base, so `product` can be accessed via `Iterators.product`.
 
 ## Second printing
@@ -49,5 +50,9 @@ Errata for Algorithms for Optimization book
 * p. 242: Change Morris-Mitchell Criterion list from {1,2,3,10,20,50,100} to {1,2,5,10,20,50,100}. (thanks to Stephan Milius)
 * p. 263: Change sidenote 8 to add " if $\lambda = 0$" and change "sufficiently large" to "positive". (thanks to Chris Peel)
 * p. 325: Remove repeated equation 18.18 and insert step between 18.13 and 18.14. (thanks to Christoph Buchner)
+* p. 376: In Example 20.6, one of the B's had the wrong font. (thanks to Christoph Buchner)
+* p. 402: Figure 21.11: The expression "f(v, s, r, p,..." was missing the c^{(d)} argument. (thanks to Christoph Buchner)
 * p. 409: Exercise 21.4: The problem should use 10 degrees rather than 10 radians. (thanks to Sudarshan Chawathe)
+
+
 
