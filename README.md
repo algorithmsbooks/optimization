@@ -55,5 +55,6 @@ Errata for Algorithms for Optimization book
 * p. 402: Figure 21.11: The expression "f(v, s, r, p,..." was missing the c^{(d)} argument. (thanks to Christoph Buchner)
 * p. 409: Exercise 21.4: The problem should use 10 degrees rather than 10 radians. (thanks to Sudarshan Chawathe)
 
+## Third printing
 
-
+* p. 46: Eq. 3.14 should be $\left[ x^{(i)} - \frac{1}{\ell}(y_{min}-y^{(i)}), x^{(i)} + \frac{1}{\ell}(y_{min}-y^{(i)}) \right]$ (thanks to Ross Alexander)
