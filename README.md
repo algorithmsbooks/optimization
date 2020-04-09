@@ -48,6 +48,7 @@ Errata for Algorithms for Optimization book
 ## Second printing
 
 * p. 46: Eq. 3.14 should be $\left[ x^{(i)} - \frac{1}{\ell}(y_{min}-y^{(i)}), x^{(i)} + \frac{1}{\ell}(y_{min}-y^{(i)}) \right]$ (thanks to Ross Alexander)
+* p. 47: Change for clarity: updated algorithm to use y_min and replaced j with i.
 * p. 183: Swap order of lambda and rho updates in Alg 10.2 (thanks to Stuart Rogers)
 * p. 242: Change Morris-Mitchell Criterion list from {1,2,3,10,20,50,100} to {1,2,5,10,20,50,100}. (thanks to Stephan Milius)
 * p. 263: Change sidenote 8 to add " if $\lambda = 0$" and change "sufficiently large" to "positive". (thanks to Chris Peel)
