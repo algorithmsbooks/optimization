@@ -49,7 +49,7 @@ Errata for Algorithms for Optimization book
 
 * p. 46: Eq. 3.14 should be $\left[ x^{(i)} - \frac{1}{\ell}(y_{min}-y^{(i)}), x^{(i)} + \frac{1}{\ell}(y_{min}-y^{(i)}) \right]$ (thanks to Ross Alexander)
 * p. 47: Change for clarity: updated algorithm to use y_min and replaced j with i. (thanks to Ross Alexander)
-* p. 58: add missing alpha and betas on right hand side of first inequality (thanks to Ethan Strijbosch)
+* p. 58: add missing alpha and betas in first inequality (thanks to Ethan Strijbosch)
 * p. 60: Dropped all indexing in eqs 4.7-9, as it was inconsistent and not strictly needed. (thanks to Remy Zawislak)
 * p. 72: Change for clarity: adjust indexing of d and g, but not beta, in conjugate gradient equations by -1. (thanks to Raman Vilkhu)
 * p. 74: Keep up with Convex.jl API using solve!(p, SCS.Optimizer) in Alg 4.4 (thanks to Ross Alexander)
