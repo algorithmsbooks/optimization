@@ -58,6 +58,7 @@ Errata for Algorithms for Optimization book
 * p. 122: ex 7.2: The interval centers were incorrect. (thanks to Ross Alexander) 
 * p. 127: ex 8.1: Change caption to: "Positive spanning sets for $\mathbb{R}^2$." (thanks to Ross Alexander)
 * p. 140: eq. 8.23, $\delta^(i)$ should be boldface on the right hand side (thanks to Robert Moss)
+* p. 171: ex 10.2, simplify example to not require any constraints by making h(x) a linear function; then x_n can be determined from x_1 through x_n-1
 * p. 183: Swap order of lambda and rho updates in Alg 10.2 (thanks to Stuart Rogers)
 * p. 242: Change Morris-Mitchell Criterion list from {1,2,3,10,20,50,100} to {1,2,5,10,20,50,100}. (thanks to Stephan Milius)
 * p. 263: Change sidenote 8 to add " if $\lambda = 0$" and change "sufficiently large" to "positive". (thanks to Chris Peel)
