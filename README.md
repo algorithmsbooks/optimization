@@ -65,4 +65,5 @@ Errata for Algorithms for Optimization book
 * p. 376: In Example 20.6, one of the B's had the wrong font. (thanks to Christoph Buchner)
 * p. 402: Figure 21.11: The expression "f(v, s, r, p,..." was missing the c^{(d)} argument. (thanks to Christoph Buchner)
 * p. 409: Exercise 21.4: The problem should use 10 degrees rather than 10 radians. (thanks to Sudarshan Chawathe)
+* p. 418: Replace `supertype` with `supertypes`. (thanks to Ellis Brown)
 * p. 441: Eq C.29: For clarity, reversed order of terms in each addition pair (thanks to Anil Yildiz)
