@@ -54,6 +54,7 @@ Errata for Algorithms for Optimization book
 * p. 72: Change for clarity: adjust indexing of d and g, but not beta, in conjugate gradient equations by -1. (thanks to Raman Vilkhu)
 * p. 74: Keep up with Convex.jl API using solve!(p, SCS.Optimizer) in Alg 4.4 (thanks to Ross Alexander)
 * p. 76: Ref 4, subscript should be superscript (thanks to Robert Moss)
+* p. 116: Multivariate direct was using max half-width rather than the distance from cell center to vertex. Changed text to "The lower bound for each hyper-rectangle can be computed based on the longest center-to-vertex distance and center value.". Updated Algs 7.10 and 7.11 to use vertex_dist() and OrderedDict. (thanks to Ross Alexander)
 * p. 122: ex 7.2: The interval centers were incorrect. (thanks to Ross Alexander) 
 * p. 140: eq. 8.23, $\delta^(i)$ should be boldface on the right hand side
 * p. 183: Swap order of lambda and rho updates in Alg 10.2 (thanks to Stuart Rogers)
