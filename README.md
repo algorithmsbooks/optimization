@@ -47,6 +47,7 @@ Errata for Algorithms for Optimization book
 
 ## Second printing
 
+* p. 26: Eq. 9.1: Remove boldface x (thanks to Ross Alexander)
 * p. 46: Eq. 3.14 should be $\left[ x^{(i)} - \frac{1}{\ell}(y_{min}-y^{(i)}), x^{(i)} + \frac{1}{\ell}(y_{min}-y^{(i)}) \right]$ (thanks to Ross Alexander)
 * p. 47: Change for clarity: updated algorithm to use y_min and replaced j with i. (thanks to Ross Alexander)
 * p. 58: add missing alpha and betas in first inequality (thanks to Ethan Strijbosch)
