@@ -47,7 +47,6 @@ Errata for Algorithms for Optimization book
 
 ## Second printing
 
-* p. 26: Eq. 9.1: Remove boldface x (thanks to Ross Alexander)
 * p. 46: Eq. 3.14 should be $\left[ x^{(i)} - \frac{1}{\ell}(y_{min}-y^{(i)}), x^{(i)} + \frac{1}{\ell}(y_{min}-y^{(i)}) \right]$ (thanks to Ross Alexander)
 * p. 47: Change for clarity: updated algorithm to use y_min and replaced j with i. (thanks to Ross Alexander)
 * p. 58: add missing alpha and betas in first inequality (thanks to Ethan Strijbosch)
@@ -60,6 +59,7 @@ Errata for Algorithms for Optimization book
 * p. 127: ex 8.1: Change caption to: "Positive spanning sets for $\mathbb{R}^2$." (thanks to Ross Alexander)
 * p. 128: eq 8.5: Remove unnecessary min
 * p. 140: eq. 8.23, $\delta^(i)$ should be boldface on the right hand side (thanks to Robert Moss)
+* p. 147: Eq. 9.1: Remove boldface x (thanks to Ross Alexander)
 * p. 171: ex 10.2, simplify example to not require any constraints by making h(x) a linear function; then x_n can be determined from x_1 through x_n-1
 * p. 183: Swap order of lambda and rho updates in Alg 10.2 (thanks to Stuart Rogers)
 * p. 242: Change Morris-Mitchell Criterion list from {1,2,3,10,20,50,100} to {1,2,5,10,20,50,100}. (thanks to Stephan Milius)
