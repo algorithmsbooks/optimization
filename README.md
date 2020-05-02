@@ -59,7 +59,9 @@ Errata for Algorithms for Optimization book
 * p. 116: Multivariate direct was using max half-width rather than the distance from cell center to vertex. Changed text to "The lower bound for each hyper-rectangle can be computed based on the longest center-to-vertex distance and center value.". Updated Algs 7.10 and 7.11 to use vertex_dist() and OrderedDict. (thanks to Ross Alexander)
 * p. 122: ex 7.2: The interval centers were incorrect. (thanks to Ross Alexander) 
 * p. 127: ex 8.1: Change caption to: "Positive spanning sets for $\mathbb{R}^2$." (thanks to Ross Alexander)
+                  Swap columns 2 and 3 and note that "the lower triangular generation strategy can only generate the first two columns of spanning sets."  (thanks to Kaijun Feng)
 * p. 128: eq 8.5: Remove unnecessary min
+* p. 128: Alg 8.2: Change for loop over j to set the lower triangular components rather than upper. 
 * p. 140: eq. 8.23, $\delta^(i)$ should be boldface on the right hand side (thanks to Robert Moss)
 * p. 147: Eq. 9.1: Remove boldface x (thanks to Ross Alexander)
 * p. 171: ex 10.2, simplify example to not require any constraints by making h(x) a linear function; then x_n can be determined from x_1 through x_n-1
