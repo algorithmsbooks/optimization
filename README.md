@@ -56,6 +56,7 @@ Errata for Algorithms for Optimization book
 * p. 74: Keep up with Convex.jl API using solve!(p, SCS.Optimizer) in Alg 4.4 (thanks to Ross Alexander)
 * p. 76: Ref 4, subscript should be superscript (thanks to Robert Moss)
 * p. 102: Alg 7.4, the second instance of line_search should have x' instead of x (thanks to Kaijun Feng)
+* p. 109: Alg 7.7, yr ≤ yh changed to yr < yh
 * p. 116: Multivariate direct was using max half-width rather than the distance from cell center to vertex. Changed text to "The lower bound for each hyper-rectangle can be computed based on the longest center-to-vertex distance and center value.". Updated Algs 7.10 and 7.11 to use vertex_dist() and OrderedDict. (thanks to Ross Alexander)
 * p. 122: ex 7.2: The interval centers were incorrect. (thanks to Ross Alexander) 
 * p. 127: ex 8.1: Change caption to: "Positive spanning sets for $\mathbb{R}^2$." (thanks to Ross Alexander)
