@@ -63,6 +63,7 @@ Errata for Algorithms for Optimization book
                   Swap columns 2 and 3 and note that "the lower triangular generation strategy can only generate the first two columns of spanning sets."  (thanks to Kaijun Feng)
 * p. 128: eq 8.5: Remove unnecessary min
 * p. 128: Alg 8.2: Change for loop over j to set the lower triangular components rather than upper. 
+                   Use D on right hand side of `D = L[:,randperm(n)]`.
 * p. 140: eq. 8.23, $\delta^(i)$ should be boldface on the right hand side (thanks to Robert Moss)
 * p. 147: Eq. 9.1: Remove boldface x (thanks to Ross Alexander)
 * p. 171: ex 10.2, simplify example to not require any constraints by making h(x) a linear function; then x_n can be determined from x_1 through x_n-1
