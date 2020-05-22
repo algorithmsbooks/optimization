@@ -77,6 +77,9 @@ Errata for Algorithms for Optimization book
 * p. 254: Theta should be upright bold in sentence before eq. 14.7 (thanks to Ross Alexander)
 * p. 263: Change sidenote 8 to add " if $\lambda = 0$" and change "sufficiently large" to "positive". (thanks to Chris Peel)
 * p. 294: Square sigma hat in eq. 16.5.
+* p. 295: Eq 16.12 for expected improvement needs a sigma squared leading the 2nd term (thanks to Philippe Weingertner)
+* p. 296: Alg 16.2 for expected improvement needs a sigma squared leading the 2nd term (thanks to Philippe Weingertner)
+          Figure 16.6 updated to reflect this change to expected improvement.
 * p. 325: Remove repeated equation 18.18 and insert step between 18.13 and 18.14. (thanks to Christoph Buchner)
 * p. 376: In Example 20.6, one of the B's had the wrong font. (thanks to Christoph Buchner)
 * p. 402: Figure 21.11: The expression "f(v, s, r, p,..." was missing the c^{(d)} argument. (thanks to Christoph Buchner)
