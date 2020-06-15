@@ -72,6 +72,7 @@ Errata for Algorithms for Optimization book
 * p. 183: Swap order of lambda and rho updates in Alg 10.2 (thanks to Stuart Rogers)
 * p. 183: delete f(x) from Alg. 10.2 where p is defined (thanks to Kaijun Feng)
 * p. 183: 0 above eq. 10.43 should be in bold (thanks to Ross Alexander)
+* p. 196: "If a linear program contains feasible points, it also contains at least one vertex" -> "If a linear program has a bounded solution, then it also contains at least one vertex."
 * p. 208-209: mu should be lambda and polarity of constraint in dual form should be A^T lambda <= c, [see corrected pages](https://github.com/sisl/algforopt-errata/blob/master/p208-209.pdf) with additional explanation (thanks to Masha Itkina)
 * p. 242: Change Morris-Mitchell Criterion list from {1,2,3,10,20,50,100} to {1,2,5,10,20,50,100}. (thanks to Stephan Milius)
 * p. 254: Theta should be upright bold in sentence before eq. 14.7 (thanks to Ross Alexander)
