@@ -92,4 +92,4 @@ Errata for Algorithms for Optimization book
 
 ## Third printing
 
-p. 402: Figure 21.11: right hand side of top block, y^{(d)} should replace c^{(d)} (thanks to Loren Newton)
+* p. 402: Figure 21.11: right hand side of top block, y^{(d)} should replace c^{(d)} (thanks to Loren Newton)
