@@ -83,13 +83,11 @@ Errata for Algorithms for Optimization book
 * p. 296: Alg 16.2 for expected improvement needs a sigma squared leading the 2nd term (thanks to Philippe Weingertner)
           Figure 16.6 updated to reflect this change to expected improvement.
 * p. 325: Remove repeated equation 18.18 and insert step between 18.13 and 18.14. (thanks to Christoph Buchner)
+* p. 329: Update to Polynomials.jl interface change; Poly->Polynomial, polyint->integrate, polyder->derivative
 * p. 376: In Example 20.6, one of the B's had the wrong font. (thanks to Christoph Buchner)
 * p. 402: Figure 21.11: The expression "f(v, s, r, p,..." was missing the c^{(d)} argument. (thanks to Christoph Buchner)
+* p. 402: Figure 21.11: right hand side of top block, y^{(d)} should replace c^{(d)} (thanks to Loren Newton)
 * p. 409: Exercise 21.4: The problem should use 10 degrees rather than 10 radians. (thanks to Sudarshan Chawathe)
 * p. 418: Replace `supertype` with `supertypes`. (thanks to Ellis Brown)
 * p. 441: Eq C.29: For clarity, reversed order of terms in each addition pair (thanks to Anil Yildiz)
 * p. 453: Change "multivariate normal distributions" to "multivariate mixture distributions" (thanks to Javier Yu)
-
-## Third printing
-
-* p. 402: Figure 21.11: right hand side of top block, y^{(d)} should replace c^{(d)} (thanks to Loren Newton)
