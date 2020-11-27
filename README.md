@@ -66,6 +66,7 @@ Errata for Algorithms for Optimization book
 * p. 128: Alg 8.2: Change for loop over j to set the lower triangular components rather than upper. 
                    Use D on right hand side of `D = L[:,randperm(n)]`.
 * p. 140: eq. 8.23, $\delta^(i)$ should be boldface on the right hand side (thanks to Robert Moss)
+* p. 141: eq. 8.30 used c_c instead of c_Sigma. (thanks to Pranav Maheshwari)
 * p. 147: Eq. 9.1: Remove boldface x (thanks to Ross Alexander)
 * p. 171: ex 10.2, simplify example to not require any constraints by making h(x) a linear function; then x_n can be determined from x_1 through x_n-1
 * p. 174: last terms in equations 10.16 and 10.17 should have minus sign (thanks to Vladislav Ankudinov) 
