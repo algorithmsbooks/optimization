@@ -83,7 +83,7 @@ Errata for Algorithms for Optimization book
 * p. 295: Eq 16.12 for expected improvement needs a sigma squared leading the 2nd term (thanks to Philippe Weingertner)
 * p. 296: Alg 16.2 for expected improvement needs a sigma squared leading the 2nd term (thanks to Philippe Weingertner)
           Figure 16.6 updated to reflect this change to expected improvement.
-* p. 313: Example 17.3, change 5 exp to 6 exp. (thanks to praktikantas)
+* p. 313: Example 17.3, change 5 exp to 6 exp. (thanks to Mindaugas Kepalas)
 * p. 325: Remove repeated equation 18.18 and insert step between 18.13 and 18.14. (thanks to Christoph Buchner)
 * p. 329: Update to Polynomials.jl interface change; Poly->Polynomial, polyint->integrate, polyder->derivative
 * p. 376: In Example 20.6, one of the B's had the wrong font. (thanks to Christoph Buchner)
