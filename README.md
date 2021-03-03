@@ -93,3 +93,4 @@ Errata for Algorithms for Optimization book
 * p. 418: Replace `supertype` with `supertypes`. (thanks to Ellis Brown)
 * p. 441: Eq C.29: For clarity, reversed order of terms in each addition pair (thanks to Anil Yildiz)
 * p. 453: Change "multivariate normal distributions" to "multivariate mixture distributions" (thanks to Javier Yu)
+* p. 495: Change "BGFS" to "BFGS" (thanks to Martijn Ruppert)
