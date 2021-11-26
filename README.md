@@ -16,7 +16,7 @@ Errata for Algorithms for Optimization book
 * p. 174: Eq 10.20 should have a + instead of a - as the gradients must point in opposite directions and mu is non-negative (thanks to Erez Krimsky)
 * p. 176: Stationarity condition should use a + instead of a -
 * p. 177: Stationarity condition (eq 10.31) should use + instead of - (thanks to Erez Krimsky)
-* p. 179, Example 10.5 optimum should actually be at -sqrt(3) rather than -1.5. Future releases will use x^2 < 1 so optimum will be at -1. (thanks yingjieMiao)
+* p. 179, Example 10.5 optimum should actually be at -pi/2 (approx. -1.57), rather than -1.5. Future releases will use x^2 < 1 so optimum will be at -1. (thanks Steven Pauly and yingjieMiao)
 * p. 180: Ex 10.6 incorrectly optimizes the dual function. It should recognize that the dual function is unbounded below when lambda is less than 1/2. The dual problem is maximized at 1/2, yielding two optimal solutions.
 * p. 195: In ex. 11.4, the minimization should be over x and s in the second problem and over x+, x-, and s in the third problem (thanks to Holly Dinkel)
 * p. 200: The leaving index should be in B.
