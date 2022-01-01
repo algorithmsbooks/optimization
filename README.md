@@ -89,6 +89,9 @@ Errata for Algorithms for Optimization book
 * p. 313: Example 17.3, change 5 exp to 6 exp. (thanks to Mindaugas Kepalas)
 * p. 325: Remove repeated equation 18.18 and insert step between 18.13 and 18.14. (thanks to Christoph Buchner)
 * p. 329: Update to Polynomials.jl interface change; Poly->Polynomial, polyint->integrate, polyder->derivative
+* p. 334: Update eq 18.40 to include an additional expectation over p(z). This change was propagated to equations 18.{44-46}. (thanks to Kouhei Harada)
+* p. 335: Eq 18.50: copy over the approximation introduced in 18.40 rather than presenting an exact equality. (thanks to Kouhei Harada)
+* p. 335: Eq 18.51: change \hat \mu(z^i) to simply z^i. (thanks to Kouhei Harada)
 * p. 376: In Example 20.6, one of the B's had the wrong font. (thanks to Christoph Buchner)
 * p. 402: Figure 21.11: The expression "f(v, s, r, p,..." was missing the c^{(d)} argument. (thanks to Christoph Buchner)
 * p. 402: Figure 21.11: right hand side of top block, y^{(d)} should replace c^{(d)} (thanks to Loren Newton)
