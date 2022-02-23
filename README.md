@@ -72,6 +72,7 @@ Errata for Algorithms for Optimization book
 * p. 171: ex 10.2, simplify example to not require any constraints by making h(x) a linear function; then x_n can be determined from x_1 through x_n-1.
                    Thank you TSeyhan for finding an additional in this change, which is now fixed.
 * p. 174: last terms in equations 10.16 and 10.17 should have minus sign (thanks to Vladislav Ankudinov) 
+* p. 176: Description of complementary slackness changed to not suggest that zero's are mutually exclusive (thanks to Zdeněk Hurák)
 * p. 177: Sentence before eq. 10.36 should have "minimization" not "maximization" (thanks to Kaijun Feng)
 * p. 183: Swap order of lambda and rho updates in Alg 10.2 (thanks to Stuart Rogers)
 * p. 183: delete f(x) from Alg. 10.2 where p is defined (thanks to Kaijun Feng)
