@@ -101,6 +101,7 @@ Errata for Algorithms for Optimization book
 * p. 402: Figure 21.11: The expression "f(v, s, r, p,..." was missing the c^{(d)} argument. (thanks to Christoph Buchner)
 * p. 402: Figure 21.11: right hand side of top block, y^{(d)} should replace c^{(d)} (thanks to Loren Newton)
 * p. 409: Exercise 21.4: The problem should use 10 degrees rather than 10 radians. (thanks to Sudarshan Chawathe)
+* p. 411: Throughout Julia tutorial, there is a [Error: UndefVarError: Grisu not defined] instead of the output that should be there, it seems
 * p. 418: Replace `subtype` with `subtypes` (thanks to Ellis Brown)
 * p. 439: Change Chebyschev to Chebyshev (thanks to Shogo Kishimoto) 
 * p. 441: Eq C.29: For clarity, reversed order of terms in each addition pair (thanks to Anil Yildiz)
