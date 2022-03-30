@@ -107,4 +107,5 @@ Errata for Algorithms for Optimization book
 * p. 452: Exercise 7.1 solution, add equation for Hessian evaluation and show that it is 4 terms (thanks to Alex Fuster)
 * p. 453: Change "multivariate normal distributions" to "multivariate mixture distributions" (thanks to Javier Yu)
 * p. 478: Change call to `phenotype` to `decode` (thanks to Shogo Kishimoto)
+* p. 480: Exercise 20.10 solution: Change p_F, p_I to w_F, w_I (thanks to Shogo Kishimoto)
 * p. 495: Change "BGFS" to "BFGS" (thanks to Martijn Ruppert)
