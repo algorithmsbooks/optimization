@@ -68,6 +68,7 @@ Errata for Algorithms for Optimization book
                    Use D on right hand side of `D = L[:,randperm(n)]`.
 * p. 140: eq. 8.23, $\delta^(i)$ should be boldface on the right hand side (thanks to Robert Moss)
 * p. 141: eq. 8.30 used c_c instead of c_Sigma. (thanks to Pranav Maheshwari)
+* p. 141 equation (8.28):  p_\Sigma -> p_\sigma (thanks to Shogo Kishimoto)
 * p. 147: Eq. 9.1: Remove boldface x (thanks to Ross Alexander)
 * p. 171: ex 10.2, simplify example to not require any constraints by making h(x) a linear function; then x_n can be determined from x_1 through x_n-1.
                    Thank you TSeyhan for finding an additional in this change, which is now fixed.
@@ -104,6 +105,7 @@ Errata for Algorithms for Optimization book
 * p. 418: Replace `subtype` with `subtypes` (thanks to Ellis Brown)
 * p. 439: Change Chebyschev to Chebyshev (thanks to Shogo Kishimoto) 
 * p. 441: Eq C.29: For clarity, reversed order of terms in each addition pair (thanks to Anil Yildiz)
+* p. 447: solution 2.1 : "where ei is the ith basis vector with ei = 1" to "where $\vect e_i$ is the $i$th basis vector with its $i$th component equal to one" (thanks to Shogo Kishimoto)
 * p. 452: Exercise 7.1 solution, add equation for Hessian evaluation and show that it is 4 terms (thanks to Alex Fuster)
 * p. 453: Change "multivariate normal distributions" to "multivariate mixture distributions" (thanks to Javier Yu)
 * p. 478: Change call to `phenotype` to `decode` (thanks to Shogo Kishimoto)
