@@ -55,6 +55,7 @@ Errata for Algorithms for Optimization book
 * p. 64: Keep up with Convex.jl API using solve!(p, SCS.Optimizer) in Alg 4.4 (thanks to Ross Alexander)
 * p. 72: Change for clarity: adjust indexing of d and g, but not beta, in conjugate gradient equations by -1. (thanks to Raman Vilkhu)
 * p. 76: Ref 4, subscript should be superscript (thanks to Robert Moss)
+* p. 83: Alg 5.10 had been implemented from the paper, which was based on a different form of Nesterov momentum (thanks to Dylan Asmar)
 * p. 102: Alg 7.4, the second instance of line_search should have x' instead of x (thanks to Kaijun Feng)
 * p. 109: Alg 7.7, yr ≤ yh changed to yr < yh (thanks to Ellis Brown)
 * p. 116: Multivariate direct was using max half-width rather than the distance from cell center to vertex. Changed text to "The lower bound for each hyper-rectangle can be computed based on the longest center-to-vertex distance and center value.". Updated Algs 7.10 and 7.11 to use vertex_dist() and OrderedDict. (thanks to Ross Alexander)
