@@ -75,6 +75,7 @@ Errata for Algorithms for Optimization book
 * p. 141: eq. 8.30 used c_c instead of c_Sigma. (thanks to Pranav Maheshwari)
 * p. 141 equation (8.28):  p_\Sigma -> p_\sigma (thanks to Shogo Kishimoto)
 * p. 147: Eq. 9.1: Remove boldface x (thanks to Ross Alexander)
+* p. 152: Alg 9.6: Refer to `select` rather than `selection` and `y` rather than `f`. Added some basic comments. (thanks to Chelsea Sidrane)
 * p. 171: ex 10.2, simplify example to not require any constraints by making h(x) a linear function; then x_n can be determined from x_1 through x_n-1.
                    Thank you TSeyhan for finding an additional in this change, which is now fixed.
 * p. 174: last terms in equations 10.16 and 10.17 should have minus sign (thanks to Vladislav Ankudinov) 
