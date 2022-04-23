@@ -68,6 +68,7 @@ Errata for Algorithms for Optimization book
 * p. 128: eq 8.5: Remove unnecessary min
 * p. 128: Alg 8.2: Change for loop over j to set the lower triangular components rather than upper. 
                    Use D on right hand side of `D = L[:,randperm(n)]`.
+* p. 132: Fig 8.4 Change upper y tick label from c to 1+c (thanks to Nancy Ammar)
 * p. 140: eq. 8.23, $\delta^(i)$ should be boldface on the right hand side (thanks to Robert Moss)
 * p. 141: eq. 8.30 used c_c instead of c_Sigma. (thanks to Pranav Maheshwari)
 * p. 141 equation (8.28):  p_\Sigma -> p_\sigma (thanks to Shogo Kishimoto)
