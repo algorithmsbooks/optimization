@@ -63,6 +63,7 @@ Errata for Algorithms for Optimization book
 * p. 90: Update sidenote 2 in chapter 6 to refer to chapter 4 rather than chapter 5 (thanks to Alexandros Tzikas)
 * p. 92: Update text around DFP update to say "at the same iteration" rather than "at iteration k" to avoid potential confusion (thanks to Alexandros Tzikas)
 * p. 97: Gamma and delta in the optimizaiton problem should be bold (thanks to Alexandros Tzikas)
+* p. 99: Add subscripts to LHS of cyclic coordinate descent equations (thanks to Alexandros Tzikas)
 * p. 102: Alg 7.4, the second instance of line_search should have x' instead of x (thanks to Kaijun Feng)
 * p. 109: Alg 7.7, yr ≤ yh changed to yr < yh (thanks to Ellis Brown)
 * p. 116: Multivariate direct was using max half-width rather than the distance from cell center to vertex. Changed text to "The lower bound for each hyper-rectangle can be computed based on the longest center-to-vertex distance and center value.". Updated Algs 7.10 and 7.11 to use vertex_dist() and OrderedDict. (thanks to Ross Alexander)
