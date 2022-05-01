@@ -61,6 +61,7 @@ Errata for Algorithms for Optimization book
 * p. 88: Deleted "horizontal", as 2nd derivative is zero for any line (thanks to Alexandros Tzikas)
 * p. 89: Eq 6.5, drop the k superscript in the argmument (thanks to Alexandros Tzikas)
 * p. 90: Update sidenote 2 in chapter 6 to refer to chapter 4 rather than chapter 5 (thanks to Alexandros Tzikas)
+* p. 92: Update text around DFP update to say "at the same iteration" rather than "at iteration k" to avoid potential confusion (thanks to Alexandros Tzikas)
 * p. 97: Gamma and delta in the optimizaiton problem should be bold (thanks to Alexandros Tzikas)
 * p. 102: Alg 7.4, the second instance of line_search should have x' instead of x (thanks to Kaijun Feng)
 * p. 109: Alg 7.7, yr ≤ yh changed to yr < yh (thanks to Ellis Brown)
