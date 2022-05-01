@@ -59,6 +59,7 @@ Errata for Algorithms for Optimization book
 * p. 83: Alg 5.10 had been implemented from the paper, which was based on a different form of Nesterov momentum (thanks to Dylan Asmar)
 * p. 84: Exercise 5.2: Change "step size" to "step factor" (thanks to John Wu)
 * p. 88: Deleted "horizontal", as 2nd derivative is zero for any line (thanks to Alexandros Tzikas)
+* p. 97: Gamma and delta in the optimizaiton problem should be bold (thanks to Alexandros Tzikas)
 * p. 102: Alg 7.4, the second instance of line_search should have x' instead of x (thanks to Kaijun Feng)
 * p. 109: Alg 7.7, yr ≤ yh changed to yr < yh (thanks to Ellis Brown)
 * p. 116: Multivariate direct was using max half-width rather than the distance from cell center to vertex. Changed text to "The lower bound for each hyper-rectangle can be computed based on the longest center-to-vertex distance and center value.". Updated Algs 7.10 and 7.11 to use vertex_dist() and OrderedDict. (thanks to Ross Alexander)
