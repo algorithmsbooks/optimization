@@ -57,7 +57,8 @@ Errata for Algorithms for Optimization book
 * p. 72: Change for clarity: adjust indexing of d and g, but not beta, in conjugate gradient equations by -1. (thanks to Raman Vilkhu)
 * p. 76: Ref 4, subscript should be superscript (thanks to Robert Moss)
 * p. 83: Alg 5.10 had been implemented from the paper, which was based on a different form of Nesterov momentum (thanks to Dylan Asmar)
-* p. 84: Exercise 5.2: Change "step size" to "step factor" (thanks to John Wu)
+* p. 84: Ex 5.2: Change "step size" to "step factor" (thanks to John Wu)
+* p. 85: Ex 5.7: Remove "normalized" to have exercise match code implementation (thanks to Alexandros Tzikas)
 * p. 88: Deleted "horizontal", as 2nd derivative is zero for any line (thanks to Alexandros Tzikas)
 * p. 89: Eq 6.5, drop the k superscript in the argmument (thanks to Alexandros Tzikas)
 * p. 90: Update sidenote 2 in chapter 6 to refer to chapter 4 rather than chapter 5 (thanks to Alexandros Tzikas)
@@ -68,11 +69,11 @@ Errata for Algorithms for Optimization book
 * p. 109: Alg 7.7, yr ≤ yh changed to yr < yh (thanks to Ellis Brown)
 * p. 116: Multivariate direct was using max half-width rather than the distance from cell center to vertex. Changed text to "The lower bound for each hyper-rectangle can be computed based on the longest center-to-vertex distance and center value.". Updated Algs 7.10 and 7.11 to use vertex_dist() and OrderedDict. (thanks to Ross Alexander)
 * p. 119: Alg 7.11 method for computing potentially optimal intervals was incorrect. [Updated algorithm is here.](https://github.com/sisl/algforopt-errata/blob/master/p119.pdf)
-* p. 122: ex 7.2: The interval centers were incorrect. (thanks to Ross Alexander) 
-* p. 127: ex 8.1: Change caption to: "Positive spanning sets for $\mathbb{R}^2$." (thanks to Ross Alexander)
+* p. 122: Ex 7.2: The interval centers were incorrect. (thanks to Ross Alexander) 
+* p. 127: Ex 8.1: Change caption to: "Positive spanning sets for $\mathbb{R}^2$." (thanks to Ross Alexander)
                   Swap columns 2 and 3 and note that "the lower triangular generation strategy can only generate the first two columns of spanning sets."  (thanks to Kaijun Feng)
 * p. 127: Make x's in final sentence bold
-* p. 128: eq 8.5: Remove unnecessary min
+* p. 128: Eq 8.5: Remove unnecessary min
 * p. 128: Alg 8.2: Change for loop over j to set the lower triangular components rather than upper. 
                    Use D on right hand side of `D = L[:,randperm(n)]`.
 * p. 132: Change `r` is drawn uniformly at random from [1,-1] to use [1,-1] (thanks to Nancy Ammar)
@@ -118,8 +119,9 @@ Errata for Algorithms for Optimization book
 * p. 439: Change Chebyschev to Chebyshev (thanks to Shogo Kishimoto) 
 * p. 441: Eq C.29: For clarity, reversed order of terms in each addition pair (thanks to Anil Yildiz)
 * p. 447: solution 2.1 : "where ei is the ith basis vector with ei = 1" to "where $\vect e_i$ is the $i$th basis vector with its $i$th component equal to one" (thanks to Shogo Kishimoto)
-* p. 452: Exercise 7.1 solution, add equation for Hessian evaluation and show that it is 4 terms (thanks to Alex Fuster)
+* p. 450: Ex 5.7: Use unnormalized gradient to have exercise match code implementation (thanks to Alexandros Tzikas)
+* p. 452: Ex 7.1 solution, add equation for Hessian evaluation and show that it is 4 terms (thanks to Alex Fuster)
 * p. 453: Change "multivariate normal distributions" to "multivariate mixture distributions" (thanks to Javier Yu)
 * p. 478: Change call to `phenotype` to `decode` (thanks to Shogo Kishimoto)
-* p. 480: Exercise 20.10 solution: Change p_F, p_I to w_F, w_I (thanks to Shogo Kishimoto)
+* p. 480: Ex 20.10 solution: Change p_F, p_I to w_F, w_I (thanks to Shogo Kishimoto)
 * p. 495: Change "BGFS" to "BFGS" (thanks to Martijn Ruppert)
