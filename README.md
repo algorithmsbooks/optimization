@@ -66,6 +66,7 @@ Errata for Algorithms for Optimization book
 * p. 92: Update text around DFP update to say "at the same iteration" rather than "at iteration k" to avoid potential confusion (thanks to Alexandros Tzikas)
 * p. 97: Gamma and delta in the optimizaiton problem should be bold (thanks to Alexandros Tzikas)
 * p. 99: Add subscripts to LHS of cyclic coordinate descent equations (thanks to Alexandros Tzikas)
+* p. 101: Add a clarifying "n-dimensional" before "quadratic function" (thanks to Chelsea Sidrane)
 * p. 102: Alg 7.4, the second instance of line_search should have x' instead of x (thanks to Kaijun Feng)
 * p. 109: Alg 7.7, yr ≤ yh changed to yr < yh (thanks to Ellis Brown)
 * p. 116: Multivariate direct was using max half-width rather than the distance from cell center to vertex. Changed text to "The lower bound for each hyper-rectangle can be computed based on the longest center-to-vertex distance and center value.". Updated Algs 7.10 and 7.11 to use vertex_dist() and OrderedDict. (thanks to Ross Alexander)
@@ -83,7 +84,8 @@ Errata for Algorithms for Optimization book
 * p. 141: eq. 8.30 used c_c instead of c_Sigma. (thanks to Pranav Maheshwari)
 * p. 141 equation (8.28):  p_\Sigma -> p_\sigma (thanks to Shogo Kishimoto)
 * p. 147: Eq. 9.1: Remove boldface x (thanks to Ross Alexander)
-* p. 152: Alg 9.6: Refer to `select` rather than `selection` and `y` rather than `f`. Added some basic comments. (thanks to Chelsea Sidrane)
+* p. 152: Alg 9.6: Refer to `select` rather than `selection` and `y` rather than `f`. Added some basic comments. (thanks to 
+Sidrane)
 * p. 171: ex 10.2, simplify example to not require any constraints by making h(x) a linear function; then x_n can be determined from x_1 through x_n-1.
                    Thank you TSeyhan for finding an additional in this change, which is now fixed.
 * p. 174: last terms in equations 10.16 and 10.17 should have minus sign (thanks to Vladislav Ankudinov) 
