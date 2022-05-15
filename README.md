@@ -95,6 +95,7 @@ Sidrane)
 * p. 183: Swap order of lambda and rho updates in Alg 10.2 (thanks to Stuart Rogers)
 * p. 183: delete f(x) from Alg. 10.2 where p is defined (thanks to Kaijun Feng)
 * p. 183: 0 above eq. 10.43 should be in bold (thanks to Ross Alexander)
+* p. 184: Add clarifying "in the feasible region" to condition 2 (thanks to Alexandros Tzikas)
 * p. 196: "If a linear program contains feasible points, it also contains at least one vertex" -> "If a linear program has a bounded solution, then it also contains at least one vertex."
 * p. 208-209: mu should be lambda and polarity of constraint in dual form should be A^T lambda <= c, [see corrected pages](https://github.com/sisl/algforopt-errata/blob/master/p208-209.pdf) with additional explanation (thanks to Masha Itkina)
 * p. 238: Fig 13.6: Half of the dots dropped to truly have a uniform projection plan
