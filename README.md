@@ -99,6 +99,7 @@ Sidrane)
 * p. 196: "If a linear program contains feasible points, it also contains at least one vertex" -> "If a linear program has a bounded solution, then it also contains at least one vertex."
 * p. 204: Alg 11.3: Fixed whitespace affecting the indentation of some 'end's (thanks to Alexandros Tzikas)
 * p. 208-209: mu should be lambda and polarity of constraint in dual form should be A^T lambda <= c, [see corrected pages](https://github.com/sisl/algforopt-errata/blob/master/p208-209.pdf) with additional explanation (thanks to Masha Itkina)
+* p. 213: When defining the utopia point, change criterion space to objective space (thanks to Alexandros Tzikas)
 * p. 238: Fig 13.6: Half of the dots dropped to truly have a uniform projection plan
 * p. 242: Change Morris-Mitchell Criterion list from {1,2,3,10,20,50,100} to {1,2,5,10,20,50,100}. (thanks to Stephan Milius)
 * p. 254: Theta should be upright bold in sentence before eq. 14.7 (thanks to Ross Alexander)
