@@ -110,6 +110,7 @@ Sidrane)
 * p. 296: Alg 16.2 for expected improvement needs a sigma squared leading the 2nd term (thanks to Philippe Weingertner)
           Figure 16.6 updated to reflect this change to expected improvement.
 * p. 309: Eq 17.4, append "and (x,z') in F for all z'"
+* p. 312: First sentence of Section 17.3, change "uses" to "use" (thanks to Alexandros Tzikas)
 * p. 313: Example 17.3, change 5 exp to 6 exp. (thanks to Mindaugas Kepalas)
 * p. 325: Remove repeated equation 18.18 and insert step between 18.13 and 18.14. (thanks to Christoph Buchner)
 * p. 329: Update to Polynomials.jl interface change; Poly->Polynomial, polyint->integrate, polyder->derivative
