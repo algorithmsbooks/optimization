@@ -102,6 +102,8 @@ Sidrane)
 * p. 213: When defining the utopia point, change criterion space to objective space (thanks to Alexandros Tzikas)
 * p. 238: Fig 13.6: Half of the dots dropped to truly have a uniform projection plan
 * p. 242: Change Morris-Mitchell Criterion list from {1,2,3,10,20,50,100} to {1,2,5,10,20,50,100}. (thanks to Stephan Milius)
+* p. 245: Alg 13.8 change `S = [X[rand(1:m)]]` to `S = [sample(X)]` (thanks to Trương Minh Nhật)
+* p. 246: Alg 13.9 change `S = X[randperm(m)]` to `S = sample(X, m, replace=false)` (thanks to Trương Minh Nhật)
 * p. 254: Theta should be upright bold in sentence before eq. 14.7 (thanks to Ross Alexander)
 * p. 256: Figure 14.2: Change nonsingular to singular (thanks to Yuki Matsuoka)
 * p. 263: Change sidenote 8 to add " if $\lambda = 0$" and change "sufficiently large" to "positive". (thanks to Chris Peel)
