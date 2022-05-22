@@ -112,6 +112,7 @@ Sidrane)
 * p. 309: Eq 17.4, append "and (x,z') in F for all z'"
 * p. 312: First sentence of Section 17.3, change "uses" to "use" (thanks to Alexandros Tzikas)
 * p. 313: Example 17.3, change 5 exp to 6 exp. (thanks to Mindaugas Kepalas)
+* p. 316: Eq 17.10: Change P((x,z) in F) to P(x in F), as z is marginalized out (thanks to Alexandros Tzikas)
 * p. 325: Remove repeated equation 18.18 and insert step between 18.13 and 18.14. (thanks to Christoph Buchner)
 * p. 329: Update to Polynomials.jl interface change; Poly->Polynomial, polyint->integrate, polyder->derivative
 * p. 334: Update eq 18.40 to include an additional expectation over p(z). This change was propagated to equations 18.{44-46}. (thanks to Kouhei Harada)
