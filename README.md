@@ -49,7 +49,7 @@ Errata for Algorithms for Optimization book
 
 ## Second printing
 
-* p. 46: Change termination conditions to be f(x(n)) - y(n) rather than y(n) - f(x(n))
+* p. 46: Change termination conditions to be f(x(n)) - y(n) rather than y(n) - f(x(n)) (thanks to Esen Yel)
 * p. 46: Eq. 3.14 should be $\left[ x^{(i)} - \frac{1}{\ell}(y_{min}-y^{(i)}), x^{(i)} + \frac{1}{\ell}(y_{min}-y^{(i)}) \right]$ (thanks to Ross Alexander)
 * p. 47: Change for clarity: updated algorithm to use y_min and replaced j with i. (thanks to Ross Alexander)
 * p. 58: add missing alpha and betas in first inequality (thanks to Ethan Strijbosch)
