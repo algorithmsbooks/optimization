@@ -132,6 +132,7 @@ Sidrane)
 * p. 418: Replace `subtype` with `subtypes` (thanks to Ellis Brown)
 * p. 439: Change Chebyschev to Chebyshev (thanks to Shogo Kishimoto) 
 * p. 441: Eq C.29: For clarity, reversed order of terms in each addition pair (thanks to Anil Yildiz)
+* p. 447: solution 2.1 has an x that should be bold
 * p. 447: solution 2.1 : "where ei is the ith basis vector with ei = 1" to "where $\vect e_i$ is the $i$th basis vector with its $i$th component equal to one" (thanks to Shogo Kishimoto)
 * p. 450: Ex 5.7: Use unnormalized gradient to have exercise match code implementation (thanks to Alexandros Tzikas)
 * p. 452: Ex 7.1 solution, add equation for Hessian evaluation and show that it is 4 terms (thanks to Alex Fuster)
