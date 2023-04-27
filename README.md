@@ -56,6 +56,7 @@ Errata for Algorithms for Optimization book
 * p. 60: Dropped all indexing in eqs 4.7-9, as it was inconsistent and not strictly needed. (thanks to Remy Zawislak)
 * p. 64: Keep up with Convex.jl API using solve!(p, SCS.Optimizer) in Alg 4.4 (thanks to Ross Alexander)
 * p. 72: Change for clarity: adjust indexing of d and g, but not beta, in conjugate gradient equations by -1. (thanks to Raman Vilkhu)
+* p. 72: Change for clarity: use cdot instead of dot() function in Alg 5.2 (thanks to Cooper Shea)
 * p. 76: Ref 4, subscript should be superscript (thanks to Robert Moss)
 * p. 82: Eq 5.34:37: Update superscripts to properly index into alpha and match Eq 4.1 (thanks to Alexandros Tzikas)
 * p. 83: Alg 5.10 had been implemented from the paper, which was based on a different form of Nesterov momentum (thanks to Dylan Asmar)
