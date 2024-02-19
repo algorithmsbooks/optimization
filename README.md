@@ -139,7 +139,7 @@ Sidrane)
 * p. 447: solution 2.1 has an x that should be bold
 * p. 447: solution 2.1 : "where ei is the ith basis vector with ei = 1" to "where $\vect e_i$ is the $i$th basis vector with its $i$th component equal to one" (thanks to Shogo Kishimoto)
 * p. 448: exercise 2.1: second x on RHS should be bolded (thanks to Yash Taneja)
-* p. 449: exercise 5.4: change the Hessian term to return a row vector (thanks to Tarek Zougari)
+* p. 449: exercise 5.4: change the Hessian term to return a column vector (thanks to Tarek Zougari)
 * p. 450: Ex 5.7: Use unnormalized gradient to have exercise match code implementation (thanks to Alexandros Tzikas)
 * p. 452: Ex 7.1 solution, add equation for Hessian evaluation and show that it is 4 terms (thanks to Alex Fuster)
 * p. 453: Change "multivariate normal distributions" to "multivariate mixture distributions" (thanks to Javier Yu)
