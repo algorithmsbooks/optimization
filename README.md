@@ -75,7 +75,8 @@ Errata for Algorithms for Optimization book
 * p. 109: Alg 7.7, yr ≤ yh changed to yr < yh (thanks to Ellis Brown)
 * p. 116: Multivariate direct was using max half-width rather than the distance from cell center to vertex. Changed text to "The lower bound for each hyper-rectangle can be computed based on the longest center-to-vertex distance and center value.". Updated Algs 7.10 and 7.11 to use vertex_dist() and OrderedDict. (thanks to Ross Alexander)
 * p. 119: Alg 7.11 method for computing potentially optimal intervals was incorrect. [Updated algorithm is here.](https://github.com/sisl/algforopt-errata/blob/master/p119.pdf)
-* p. 122: Ex 7.2: The interval centers were incorrect. (thanks to Ross Alexander) 
+* p. 122: Ex 7.2: The interval centers were incorrect. (thanks to Ross Alexander)
+* p. 125: Eq. 8.1: The sign in front of the alpha should be negative (thanks to Lucy Brown)
 * p. 127: Ex 8.1: Change caption to: "Positive spanning sets for $\mathbb{R}^2$." (thanks to Ross Alexander)
                   Swap columns 2 and 3 and note that "the lower triangular generation strategy can only generate the first two columns of spanning sets."  (thanks to Kaijun Feng)
 * p. 127: Make x's in final sentence bold
