@@ -87,7 +87,7 @@ Errata for Algorithms for Optimization book
 * p. 132: Fig 8.4  Change upper y tick label from c to 1+c (thanks to Nancy Ammar)       
 * p. 140: eq. 8.23, $\delta^(i)$ should be boldface on the right hand side (thanks to Robert Moss)
 * p. 141: eq. 8.30 used c_c instead of c_Sigma. (thanks to Pranav Maheshwari)
-* p. 141: eq. 8.30 should have a "rank-m_elite" subscript for the 3rd term (thanks to Ye Li) 
+* p. 141: eq. 8.30 should have a "rank-m_elite" subscript for the 3rd term, and the rank-mu update should be a rank-m_elite update (thanks to Ye Li) 
 * p. 141 equation (8.28):  p_\Sigma -> p_\sigma (thanks to Shogo Kishimoto)
 * p. 147: Eq. 9.1: Remove boldface x (thanks to Ross Alexander)
 * p. 151: Change "choose" to "select" for truncation selection for clarity (thanks to Chelsea Sidrane)
