@@ -1,6 +1,6 @@
 # algforopt-errata
 
-Errata for Algorithms for Optimization book
+Errata for the *First Edition* of the Algorithms for Optimization book
 
 ## First printing
 
