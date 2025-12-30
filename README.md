@@ -14,7 +14,6 @@ Errata for the *First Edition* of the Algorithms for Optimization book
 * p. 138: Covariance matrix adaptation had inconsistencies with the recommended implementation in the original work. Primarily, this changes eq 8.18 such that first m_elite entries sum to 1, that all entries sum to approx 0, and that weights need not be non-negative. Eq 8.19 and 8.22 only sum to m_elite. (thanks to Arec Jamgochian)
 * p. 160: The ref to eq. 9.8 in the last paragraph should actually be to eq. 9.7. (thanks to Anthony Corso and Joan Creus-Costa)
 * p. 171: There should be minus signs instead of plus signs before each of the x_i terms under the square root (thanks to Zhengyu Chen)
-* p. 172: Example 10.3 final lines should that the directional derivative of f along the contour of h should be zero (thanks to Ilyass Sif)
 * p. 174: Eq 10.20 should have a + instead of a - as the gradients must point in opposite directions and mu is non-negative (thanks to Erez Krimsky)
 * p. 176: Stationarity condition should use a + instead of a -
 * p. 177: Stationarity condition (eq 10.31) should use + instead of - (thanks to Erez Krimsky)
@@ -96,6 +95,7 @@ Errata for the *First Edition* of the Algorithms for Optimization book
 Sidrane)
 * p. 171: ex 10.2, simplify example to not require any constraints by making h(x) a linear function; then x_n can be determined from x_1 through x_n-1.
                    Thank you TSeyhan for finding an addition in this change, which is now fixed.
+* p. 172: Example 10.3 final lines should that the directional derivative of f along the contour of h should be zero (thanks to Ilyass Sif)
 * p. 174: last terms in equations 10.16 and 10.17 should have minus sign (thanks to Vladislav Ankudinov) 
 * p. 176: Description of complementary slackness changed to not suggest that zero's are mutually exclusive (thanks to Zdeněk Hurák)
 * p. 177: Sentence before eq. 10.36 should have "minimization" not "maximization" (thanks to Kaijun Feng)
