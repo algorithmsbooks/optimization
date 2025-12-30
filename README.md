@@ -14,10 +14,11 @@ Errata for the *First Edition* of the Algorithms for Optimization book
 * p. 138: Covariance matrix adaptation had inconsistencies with the recommended implementation in the original work. Primarily, this changes eq 8.18 such that first m_elite entries sum to 1, that all entries sum to approx 0, and that weights need not be non-negative. Eq 8.19 and 8.22 only sum to m_elite. (thanks to Arec Jamgochian)
 * p. 160: The ref to eq. 9.8 in the last paragraph should actually be to eq. 9.7. (thanks to Anthony Corso and Joan Creus-Costa)
 * p. 171: There should be minus signs instead of plus signs before each of the x_i terms under the square root (thanks to Zhengyu Chen)
+* p. 172: Example 10.3 final lines should that the directional derivative of f along the contour of h should be zero (thanks to Ilyass Sif)
 * p. 174: Eq 10.20 should have a + instead of a - as the gradients must point in opposite directions and mu is non-negative (thanks to Erez Krimsky)
 * p. 176: Stationarity condition should use a + instead of a -
 * p. 177: Stationarity condition (eq 10.31) should use + instead of - (thanks to Erez Krimsky)
-* p. 179, Example 10.5 optimum should actually be at -pi/2 (approx. -1.57), rather than -1.5. Future releases will use x^2 < 1 so optimum will be at -1. (thanks Steven Pauly and yingjieMiao)
+* p. 179: Example 10.5 optimum should actually be at -pi/2 (approx. -1.57), rather than -1.5. Future releases will use x^2 < 1 so optimum will be at -1. (thanks Steven Pauly and yingjieMiao)
 * p. 180: Ex 10.6 incorrectly optimizes the dual function. It should recognize that the dual function is unbounded below when lambda is less than 1/2. The dual problem is maximized at 1/2, yielding two optimal solutions.
 * p. 195: In ex. 11.4, the minimization should be over x and s in the second problem and over x+, x-, and s in the third problem (thanks to Holly Dinkel)
 * p. 200: The leaving index should be in B.
