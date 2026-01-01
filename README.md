@@ -19,7 +19,6 @@ Errata for the *First Edition* of the Algorithms for Optimization book
 * p. 177: Stationarity condition (eq 10.31) should use + instead of - (thanks to Erez Krimsky)
 * p. 179: Example 10.5 optimum should actually be at -pi/2 (approx. -1.57), rather than -1.5. Future releases will use x^2 < 1 so optimum will be at -1. (thanks to Steven Pauly and yingjieMiao)
 * p. 180: Ex 10.6 incorrectly optimizes the dual function. It should recognize that the dual function is unbounded below when lambda is less than 1/2. The dual problem is maximized at 1/2, yielding two optimal solutions.
-* p. 177: After stationarity, it should say "The gradient of the objective lies in the span of the gradients of the active constraints:" (thanks to Ilyass Sif)
 * p. 195: In ex. 11.4, the minimization should be over x and s in the second problem and over x+, x-, and s in the third problem (thanks to Holly Dinkel)
 * p. 200: The leaving index should be in B.
 * p. 203: Ex 11.7 should read "causes x_4 to become zero" (thanks to Wouter Van Gijseghem)
@@ -100,6 +99,7 @@ Sidrane)
 * p. 174: last terms in equations 10.16 and 10.17 should have minus sign (thanks to Vladislav Ankudinov) 
 * p. 176: Description of complementary slackness changed to not suggest that zero's are mutually exclusive (thanks to Zdeněk Hurák)
 * p. 177: Sentence before eq. 10.36 should have "minimization" not "maximization" (thanks to Kaijun Feng)
+* p. 177: After stationarity, it should say "The gradient of the objective lies in the span of the gradients of the active constraints:" (thanks to Ilyass Sif)
 * p. 183: Swap order of lambda and rho updates in Alg 10.2 (thanks to Stuart Rogers)
 * p. 183: Equation 10.43 and Alg 10.2 should use the opposite sign for its second term (λ⋅h(x)) (thanks to  Vineet Theodore)
 * p. 183: delete f(x) from Alg. 10.2 where p is defined (thanks to Kaijun Feng)
