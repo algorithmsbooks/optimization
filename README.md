@@ -70,6 +70,7 @@ Errata for the *First Edition* of the Algorithms for Optimization book
 * p. 92: Update text around DFP update to say "at the same iteration" rather than "at iteration k" to avoid potential confusion (thanks to Alexandros Tzikas)
 * p. 97: Gamma and delta in the optimizaiton problem should be bold (thanks to Alexandros Tzikas)
 * p. 99: Add subscripts to LHS of cyclic coordinate descent equations (thanks to Alexandros Tzikas)
+* p. 101: The initialization for \vect z^{(0)} should use the latest information from index m (thanks to Tarek Zougari)
 * p. 101: Add a clarifying "n-dimensional" before "quadratic function" (thanks to Chelsea Sidrane)
 * p. 102: Alg 7.4, the second instance of line_search should have x' instead of x (thanks to Kaijun Feng)
 * p. 109: Alg 7.7, yr ≤ yh changed to yr < yh (thanks to Ellis Brown)
